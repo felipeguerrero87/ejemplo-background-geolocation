@@ -1,5 +1,7 @@
 {
   "name": "backgroundgeolocation",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
